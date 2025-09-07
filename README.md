@@ -61,3 +61,6 @@ Added KPIs like Total Revenue, Total Orders, Loyalty %, and Average Order Value 
 Derived actionable insights, such as top-performing products, highest-selling months, and store-wise performance.
 
 Helped in understanding customer loyalty and sales patterns.
+
+## Final Result
+<img width="1608" height="765" alt="Screenshot 2025-08-28 141911" src="https://github.com/user-attachments/assets/c2c5ee98-0192-4f7b-99cb-86db1eda06d3" />
