@@ -17,3 +17,11 @@ This project is an interactive Excel dashboard that visualizes the overall sales
 🎯 Customer Loyalty Insights – Shows the percentage of repeat customers vs. new customers.
 
 📈 Average Order Value – Displays the average number of orders per customer for better profitability tracking.
+
+## Tools & Technologies Used
+
+Microsoft Excel (Dashboard Creation & Data Visualization)
+
+Charts Used: Bar Chart, Pie Chart, Comparative Analysis
+
+Data Cleaning & Preparation
