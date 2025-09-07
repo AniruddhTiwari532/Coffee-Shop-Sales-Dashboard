@@ -25,3 +25,39 @@ Microsoft Excel (Dashboard Creation & Data Visualization)
 Charts Used: Bar Chart, Pie Chart, Comparative Analysis
 
 Data Cleaning & Preparation
+
+## Process
+
+The project was developed using the following steps:
+
+#### 1.Data Collection 🗂️
+
+Collected raw sales data, including coffee types, store locations, order quantities, revenue, and customer loyalty details.
+
+#### 2.Data Cleaning & Preparation 🧹
+
+Removed duplicates, handled missing values, and ensured consistency in data formatting for accurate analysis.
+
+Organized the dataset to make it dashboard-ready.
+
+#### 3.Data Analysis 📑
+
+Analyzed total revenue, orders, and customer loyalty.
+
+Identified top-selling coffee types and monthly sales trends.
+
+Compared store-wise performance for deeper insights.
+
+#### 4.Dashboard Design 🎨
+
+Created an interactive and visually appealing Excel dashboard.
+
+Used bar charts, pie charts, and comparative graphs for better data visualization.
+
+Added KPIs like Total Revenue, Total Orders, Loyalty %, and Average Order Value for quick insights.
+
+#### 5.Insights & Decision Making 🔍
+
+Derived actionable insights, such as top-performing products, highest-selling months, and store-wise performance.
+
+Helped in understanding customer loyalty and sales patterns.
